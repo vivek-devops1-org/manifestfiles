@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: firfox-container
-      image: linuxserver/firefox
+      image: practice30.azurecr.io/todoui:v14
       ports:
         - containerPort: 3000
