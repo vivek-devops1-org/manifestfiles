@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: firefox-pod
+  name: todoui-frontend
   labels:
     app: firefoxApplication
 spec:
